@@ -6,7 +6,7 @@ Bem-vindo(a) ao projeto **Alexa com IA**, uma adaptação do repositório [skill
 
 ## 📚 Sobre o Projeto
 
-Este projeto tem como objetivo integrar a assistente virtual **Alexa** com a **API Openrouter.ai**, permitindo interações mais naturais e inteligentes com o usuário. A base foi construída sobre o repositório criado por [Café com Bug](https://github.com/mrtrycatch/), com adaptações para utilizar o modelo `deepseek/deepseek-chat`.
+Este projeto tem como objetivo integrar a assistente virtual **Alexa** com a **API Openrouter.ai**, permitindo interações mais naturais e inteligentes com o usuário. A base foi construída sobre o repositório criado por [Café com Bug](https://www.youtube.com/watch?v=lhqpAaIosmI), com adaptações para utilizar o modelo `deepseek/deepseek-chat` corrigido e funcional sem cobranças.
 
 ---
 
