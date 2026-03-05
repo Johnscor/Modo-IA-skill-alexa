@@ -12,17 +12,17 @@ Este projeto tem como objetivo integrar a assistente virtual **Alexa** com a **A
 
 ## 🔗 Consiga sua chave de API
 
-Acesse cadastre e obtenha a sua API KEY
+Acesse, cadastre-se e obtenha a sua API KEY
 
 🔗 https://openrouter.ai
 
 ---
 
-## 🎥 Tutorial em Vídeo
+## 🎥 Tutorial em Vídeo no meu canal
 
-Quer ver o passo a passo de como integrar o Deepseek na sua Alexa?
+Quer ver o passo a passo atualizado 2026 de como integrar o Deepseek na sua Alexa?
 
-📺 Confira o vídeo completo no YouTube no Canal JohnGamerShow:  
+📺 Confira o vídeo completo no YouTube no meu Canal @JohnGamerShow:  
 👉 [link do canal no youtube](https://youtube.com/@johngamershow?si=yJl3FYNszA6ebzTb)
 
 ---
@@ -41,6 +41,7 @@ Link para importação na Alexa console developer:
 - **Python 3**
 - **AWS Lambda**
 - **Openrouter.ai API**
+- **Deepseek-chat**
 
 ---
 
