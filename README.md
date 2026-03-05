@@ -1,6 +1,6 @@
 # 🤖 Alexa com Skill de IA - DeepSeek
 
-Bem-vindo(a) ao projeto **Alexa com IA**, uma adaptação do repositório [skill-alexa-deeoseek](https://github.com/mrtrycatch/deepseek-skill-alexa.git), agora utilizando a **API do Openrouter.ai** para dar voz à inteligência artificial.
+Bem-vindo(a) ao projeto **Alexa com IA**, uma adaptação do repositório [skill-alexa-deepseek](https://github.com/mrtrycatch/deepseek-skill-alexa.git), agora utilizando a **API do Openrouter.ai** para dar voz à inteligência artificial.
 
 ---
 
