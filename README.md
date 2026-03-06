@@ -26,12 +26,12 @@ Cadastre-se e crie a Skill no Console Alexa
 
 ---
 
-## 🎥 Tutorial em Vídeo no meu canal
+## 🎥 Tutorial em Vídeo no meu canal 📍
 
 Quer ver o passo a passo atualizado 2026 de como integrar o Deepseek na sua Alexa?
 
 📺 Confira o vídeo completo no YouTube no meu Canal @JohnGamerShow:  
-👉 [link do canal no youtube](https://youtube.com/@johngamershow?si=yJl3FYNszA6ebzTb)
+👉 [link do canal no youtube](https://youtube.com/@johngamershow?si=yJl3FYNszA6ebzTb) 👀
 
 ---
 
