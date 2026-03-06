@@ -10,19 +10,19 @@ Este projeto tem como objetivo integrar a assistente virtual **Alexa** com a **A
 
 ---
 
-## 🗝️ Consiga sua chave de API
-
-Acesse, cadastre-se e obtenha a sua API KEY
-
-🔗 https://openrouter.ai
-
----
-
 ## 🛠️ Console Alexa Developer
 
 Cadastre-se e crie a Skill no Console Alexa
 
 🔗 https://developer.amazon.com/alexa/console/ask
+
+---
+
+## 🗝️ Consiga sua chave de API
+
+Acesse, cadastre-se e obtenha a sua API KEY
+
+🔗 https://openrouter.ai
 
 ---
 
