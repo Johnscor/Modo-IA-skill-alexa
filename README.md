@@ -18,6 +18,14 @@ Acesse, cadastre-se e obtenha a sua API KEY
 
 ---
 
+## 🔗 Console Alexa Developer
+
+Cadastre-se e crie a Skill no Console Alexa
+
+🔗 https://developer.amazon.com/alexa/console/ask
+
+---
+
 ## 🎥 Tutorial em Vídeo no meu canal
 
 Quer ver o passo a passo atualizado 2026 de como integrar o Deepseek na sua Alexa?
