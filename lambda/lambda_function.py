@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 # Sua chave da OpenRouter (fornecida)
-OPENROUTER_API_KEY = "SUA CHAVE API KEY AQUI CRIADA NO SITE https://openrouter.ai mantenha as aspas"
+OPENROUTER_API_KEY = "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"
 
 # Configura o cliente OpenAI para usar a OpenRouter
 client = OpenAI(

@@ -3,24 +3,24 @@
     "apis": {
       "custom": {
         "endpoint": {
-          "uri": "arn:aws:lambda:us-east-1:388806798322:function:b401a0f7-35a7-4480-b780-2d6cc16fa517:Release_0"
+          "uri": "arn:aws:lambda:us-east-1:094244840787:function:7c1da406-155c-4afb-b072-99fbbf22a50d:Release_0"
         },
         "interfaces": [],
         "locales": {},
         "regions": {
           "NA": {
             "endpoint": {
-              "uri": "arn:aws:lambda:us-east-1:388806798322:function:b401a0f7-35a7-4480-b780-2d6cc16fa517:Release_0"
+              "uri": "arn:aws:lambda:us-east-1:094244840787:function:7c1da406-155c-4afb-b072-99fbbf22a50d:Release_0"
             }
           },
           "EU": {
             "endpoint": {
-              "uri": "arn:aws:lambda:eu-west-1:388806798322:function:b401a0f7-35a7-4480-b780-2d6cc16fa517:Release_0"
+              "uri": "arn:aws:lambda:eu-west-1:094244840787:function:7c1da406-155c-4afb-b072-99fbbf22a50d:Release_0"
             }
           },
           "FE": {
             "endpoint": {
-              "uri": "arn:aws:lambda:us-west-2:388806798322:function:b401a0f7-35a7-4480-b780-2d6cc16fa517:Release_0"
+              "uri": "arn:aws:lambda:us-west-2:094244840787:function:7c1da406-155c-4afb-b072-99fbbf22a50d:Release_0"
             }
           }
         }
@@ -32,7 +32,7 @@
       "isAvailableWorldwide": true,
       "locales": {
         "pt-BR": {
-          "name": "deepseek"
+          "name": "conversa inteligente"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
