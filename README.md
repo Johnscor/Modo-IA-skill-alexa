@@ -31,7 +31,7 @@ Acesse, cadastre-se e obtenha a sua API KEY
 Quer ver o passo a passo atualizado 2026 de como integrar o Deepseek na sua Alexa?
 
 📺 Confira o vídeo completo no YouTube do meu Canal @JohnGamerShow:  
-👉 [link do video no youtube](https://youtu.be/466Ixv0L8jU) 👀
+👉 [link Video tutorial no youtube](https://youtu.be/466Ixv0L8jU) 👀
 
 ---
 
