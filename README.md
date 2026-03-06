@@ -35,7 +35,7 @@ Quer ver o passo a passo atualizado 2026 de como integrar o Deepseek na sua Alex
 
 ---
 
-## 🔗 Repositório - importar
+## 📂 Repositório - importar
 
 Link para importação na Alexa console developer:
 
