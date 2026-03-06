@@ -10,7 +10,7 @@ Este projeto tem como objetivo integrar a assistente virtual **Alexa** com a **A
 
 ---
 
-## 🔗 Consiga sua chave de API
+## 🗝️ Consiga sua chave de API
 
 Acesse, cadastre-se e obtenha a sua API KEY
 
@@ -18,7 +18,7 @@ Acesse, cadastre-se e obtenha a sua API KEY
 
 ---
 
-## 🔗 Console Alexa Developer
+## 🛠️ Console Alexa Developer
 
 Cadastre-se e crie a Skill no Console Alexa
 
